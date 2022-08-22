@@ -40,5 +40,19 @@
     "sha256sum": "1193589eb2779a1224328defca4e2ca378ef786474be1842ac43b674b9535d82",
     "foxe": "https://github.com/rscova/foxglove-sideways-teleop-extension/releases/download/v0.0.1/sideways.sideways-teleop-extension-0.0.1.foxe",
     "keywords": ["sideways","teleop"]
+  },
+    {
+    "id": "danielclapp.ros2-parameter-extension",
+    "name": "ROS2 Parameters",
+    "description": "ROS2 parameter interaction allowing users to view, set, and load parameters in ROS2",
+    "publisher": "Daniel Clapp",
+    "homepage": "https://github.com/danclapp4/ros2-parameter-extension.git",
+    "readme": "https://raw.githubusercontent.com/danclapp4/ros2-parameter-extension/main/README.md",
+    "changelog": "https://raw.githubusercontent.com/danclapp4/ros2-parameter-extension/main/CHANGELOG.md",
+    "license": "UNLICENSED",
+    "version": "0.0.1",
+    "sha256sum": "cea962799640b9833e45175e248268a9700c271f528ea62126e5cb54f2b1b16f",
+    "foxe": "https://github.com/danclapp4/ros2-parameter-extension/releases/download/v0.0.1/danielclapp.ros2-parameter-extension-0.0.1.foxe",
+    "keywords": ["ros2","parameter", "param"]
   }
 ]
